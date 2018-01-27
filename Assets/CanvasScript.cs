@@ -7,6 +7,7 @@ public class CanvasScript : MonoBehaviour {
     
 	// Use this for initialization
 	void Start () {
+        
 
 	}
 	
